@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Kuliah/Semester 5/Pemrograman Mobile/D121191071_TugasFragment/android-kotlin-fundamentals-starter-apps/GuessTheWord-Starter/app/src/main/res/layout-land/score_fragment.xml" value="0.16666666666666666" />
+        <entry key="..\:/Kuliah/Semester 5/Pemrograman Mobile/D121191071_TugasFragment/android-kotlin-fundamentals-starter-apps/GuessTheWord-Starter/app/src/main/res/layout/game_fragment.xml" value="0.15307971014492755" />
+        <entry key="..\:/Kuliah/Semester 5/Pemrograman Mobile/D121191071_TugasFragment/android-kotlin-fundamentals-starter-apps/GuessTheWord-Starter/app/src/main/res/layout/score_fragment.xml" value="0.2421875" />
+        <entry key="..\:/Kuliah/Semester 5/Pemrograman Mobile/D121191071_TugasFragment/android-kotlin-fundamentals-starter-apps/GuessTheWord-Starter/app/src/main/res/layout/title_fragment.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/Zaki/AndroidStudioProjects/D121191024_GuessTheWord-starter-main/app/src/main/res/layout/title_fragment.xml" value="0.4" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
